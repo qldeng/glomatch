@@ -1,5 +1,5 @@
 # glomatch
-We will release the full source code when the paper becomes public.
+Globally Optimized Matchmaking in Online Games.
 
 ```
 run sim_env.py
